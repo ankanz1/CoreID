@@ -1,4 +1,4 @@
-# 🆔 CoreID – Decentralized Identity System on Core DAO
+# 🆔 CoreID
 
 ---
 
