@@ -1,4 +1,6 @@
-# 🆔 Decentralized Identity (DID) System on Core DAO
+# CoreID
+
+## 🆔 Decentralized Identity (DID) System on Core DAO
 
 A decentralized identity verification system deployed on **Core DAO** that allows users to create, store, and verify identity-related information such as KYC, education records, and social handles on-chain.
 
