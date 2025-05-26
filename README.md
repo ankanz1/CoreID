@@ -1,13 +1,5 @@
 # 🆔 CoreID – Decentralized Identity System on Core DAO
 
-## 📑 Table of Contents
-- [Project Title](#project-title)
-- [Project Description](#project-description)
-- [Project Vision](#project-vision)
-- [Future Scope](#future-scope)
-- [Key Features](#key-features)
-- [Smart Contract](#smart-contract)
-  
 ---
 
 ## 🏷️ Project Title
